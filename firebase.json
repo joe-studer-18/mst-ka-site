@@ -8,6 +8,9 @@
       "**/.*",
       "**/node_modules/**",
       "public/",
+      "active/views/alumni-home.html",
+      "active/style/alumni-home.css",
+      "active/script/alumni-home.js",
       "active/img/originals"
     ],
     "contributors": [
